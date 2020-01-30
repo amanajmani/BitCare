@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": false
+    }
+}
