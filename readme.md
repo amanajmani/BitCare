@@ -6,3 +6,7 @@ display a list of all transactions made to that address.
 
 A seperate screen to geenrate a new BTC address,
 where the user can receive and send testnet BTC's.
+
+## App Screen
+
+![Sample Screen](https://github.com/amanajmani/BitCare/blob/master/appScreen.gif)
