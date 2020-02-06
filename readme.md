@@ -1,10 +1,10 @@
 # BitCare
 
 A react native application that will accept a bitcoin address as user input and
-allow the user to see how much bitcoin is associated with the address and
-display a list of all transactions made to that address.
+allow the user to see how much bitcoin is associated with that address and
+display a list of all the transactions made to that address.
 
-A seperate screen to geenrate a new BTC address,
+A separate screen to generate a new BTC address, 
 where the user can receive and send testnet BTC's.
 
 ## App Screen
